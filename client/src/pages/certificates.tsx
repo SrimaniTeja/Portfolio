@@ -13,7 +13,7 @@ export default function CertificatesPage() {
     {
       title: "ApoorvCTF Certificate",
       provider: "Cybersecurity Competition",
-      file: "/public/attached_assets/ApoorvCTF-Certificate_1753725836628.pdf",
+      file: "/pub/attached_assets/ApoorvCTF-Certificate_1753725836628.pdf",
       description: "Capture The Flag cybersecurity competition certificate"
     },
     {
