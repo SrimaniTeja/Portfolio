@@ -6,8 +6,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "vite": "^5.0.0",
     "react": "...",
-    "tailwindcss": "file:...",
-    "vite": "^5.0.0"
+    "tailwindcss": "..."
+  
   }
 }
