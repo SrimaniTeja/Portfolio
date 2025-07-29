@@ -58,7 +58,7 @@ export default function HeroSection() {
               transition={{ delay: 0.4, duration: 0.6 }}
               className="text-xl md:text-2xl text-gray-300 mb-4"
             >
-              Cybersecurity Developer
+              Cybersecurity Analyst |  Web Dev
             </motion.p>
             
             <motion.p 
@@ -67,7 +67,7 @@ export default function HeroSection() {
               transition={{ delay: 0.6, duration: 0.6 }}
               className="text-lg text-gray-400 mb-8 leading-relaxed"
             >
-              Computer Science undergrad with cybersecurity training seeking to apply my full-stack development skills in software engineering. I love building applications that are as secure as they are functional.
+               Computer Science and Cybersecurity student who loves solving real-world problems with secure, reliable applications. Whether it’s digging into malware or building full-stack projects, I enjoy making things work — and keeping them safe.
             </motion.p>
             
             <motion.div 

@@ -21,7 +21,7 @@ export default function AchievementsSection() {
     },
     {
       title: "Cyber-Quest",
-      description: "Organized a CTF event at CVR College of Engineering to promote cybersecurity awareness",
+      description: "Organized a CTF event at CVR College of Engineering to promote Cybersecurity and CTF awareness",
       icon: "fas fa-users",
       gradient: "from-neon-green to-emerald-500"
     }

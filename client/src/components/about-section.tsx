@@ -29,10 +29,7 @@ export default function AboutSection() {
             className="space-y-6"
           >
             <p className="text-lg text-gray-300 leading-relaxed">
-              I'm passionate about cybersecurity and full-stack development, with a special interest in insurance technology. My journey involves building secure, functional applications while continuously learning about risk assessment, fraud detection, and policy management systems.
-            </p>
-            <p className="text-lg text-gray-300 leading-relaxed">
-              Currently pursuing BTech in Computer Science with Cybersecurity specialization at CVR College of Engineering, I combine theoretical knowledge with hands-on experience in CTF competitions and real-world projects.
+              Hey there! I’m currently persuing my BTech in Computer Science with a Cybersecurity focus at CVR College of Engineering. I’m passionate about building applications that don’t just work well but stay secure, too. I’ve explored from malware analysis to network security through CTFs, Projects, Hackathons and Academics. Lately, I’ve been fascinated by how secure software powers industries like insurance — from fraud detection to risk assessment. I love learning new things, solving challenges, and turning ideas into real, secure solutions.
             </p>
             
 
@@ -45,19 +42,19 @@ export default function AboutSection() {
             className="space-y-4"
           >
             <div className="bg-slate-dark/50 p-6 rounded-lg card-hover">
-              <h3 className="text-xl font-semibold text-neon-green mb-4">Quick Facts</h3>
+              <h3 className="text-xl font-semibold text-neon-green mb-4">Key Details</h3>
               <div className="space-y-3">
                 <div className="flex items-center">
                   <i className="fas fa-map-marker-alt text-electric w-6"></i>
-                  <span>Hyderabad, India</span>
+                  <span>Karimnagar, Telangana, India</span>
                 </div>
                 <div className="flex items-center">
                   <i className="fas fa-graduation-cap text-electric w-6"></i>
-                  <span>CVR College of Engineering</span>
+                  <span>BTech - CSE(CS) at CVR College of Engineering</span>
                 </div>
                 <div className="flex items-center">
                   <i className="fas fa-shield-alt text-electric w-6"></i>
-                  <span>Cybersecurity Specialist</span>
+                  <span>Cybersecurity Enthusiast</span>
                 </div>
                 <div className="flex items-center">
                   <i className="fas fa-code text-electric w-6"></i>
@@ -65,7 +62,7 @@ export default function AboutSection() {
                 </div>
                 <div className="flex items-center">
                   <i className="fas fa-birthday-cake text-electric w-6"></i>
-                  <span>Born: October 25, 2004</span>
+                  <span>DOB: October 25, 2004</span>
                 </div>
               </div>
             </div>
